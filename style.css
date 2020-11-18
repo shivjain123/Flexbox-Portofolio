@@ -21,3 +21,12 @@ h1{
 p, h2{
     text-align : center;
 }
+.header1{
+    background-color: rgb(248, 175, 187);
+}
+.grid1{
+    background-color: black;
+    display : flex;
+    flex-wrap: wrap;
+    justify-content : space-evenly;
+}
